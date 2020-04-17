@@ -1,0 +1,23 @@
+{
+  "name": "apkinform",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PaulMuller/prntscrScratch.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PaulMuller/prntscrScratch/issues"
+  },
+  "homepage": "https://github.com/PaulMuller/prntscrScratch#readme"
+}
