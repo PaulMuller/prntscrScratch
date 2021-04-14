@@ -9,7 +9,7 @@ regexp_final = /(https?:\/\/(?:www\.|(?!www))[a-zA-Z0-9][a-zA-Z0-9-]+[a-zA-Z0-9]
 counter = 0
 
 const downloadRandom = async() => {
-    const id = `rt4` + crypto.randomBytes(1).toString('hex') + crypto.randomBytes(1).toString('hex').slice(1)
+    const id = `vnl` + crypto.randomBytes(1).toString('hex') + crypto.randomBytes(1).toString('hex').slice(1)
     console.log(id)
 
     await fetch(`${url}${id}`,{method: "get"})
